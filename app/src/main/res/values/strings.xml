@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nativeNums</string>
+    <string name="calculate">calculate</string>
+    <string name="clear">clear</string>
+    <string name="number">number</string>
+    <string name="primeNums">prime nums</string>
+    <string name="NN">GCD/LCM</string>
+    <string name="LCM">LCM</string>
+    <string name="GCD">GCD</string>
+
+    <string name="cancel">cancel</string>
+</resources>

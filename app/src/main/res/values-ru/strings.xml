@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">простые числа</string>
+    <string name="calculate">посчитать</string>
+    <string name="clear">очистить</string>
+    <string name="number">число</string>
+    <string name="primeNums">простые числа</string>
+    <string name="NN">НОД/НОК</string>
+    <string name="cancel">отмена</string>
+    <string name="LCM">НОК</string>
+    <string name="GCD">НОД</string>
+</resources>
